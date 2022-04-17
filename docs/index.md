@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# ND-AME Intermediate Controls Conference (ICC)
 
-You can use the [editor on GitHub](https://github.com/WeRoLab/intermediate-controls/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Dear Intermediate Controls Class,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The ICC summarizes the content of our class with your final project presentations. In the near future, you will likely interact with dynamical systems. The purpose of this website is to document your progress and be a mind refresher after your graduation.
 
-### Markdown
+It was a pleasure working with you, and I wish you all the best.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sincerely,
 
-```markdown
-Syntax highlighted code block
+[Edgar Bolívar-Nieto](https://engineering.nd.edu/faculty/edgar-bolivar-nieto/)
 
-# Header 1
-## Header 2
-### Header 3
+# ICC22 Program Overview
+Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 2022. Each group has 4 minutes to prenst plus 2 minutes for questions from the audience.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WeRoLab/intermediate-controls/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Time (ET)      | Event | Details    |
+| :---         |    :----:   |          :--- |
+| 2:00 - 2:10 PM | Keynote: Dr. Andrés Valenzuela, Boston Dynamics  | Carrer path and 5 min. of Q&A   |
+| 2:11 - 2:17 PM | Dynamics of a balancing bicycle (C&G)      | SysID from IMUs attached to the frame and handle bar. Control law to maintain balance. |
+| 2:18 - 2:24 PM | Population dynamics (K&N)      | SysID from available dataset. Controller and observer design to regulate population of lynx and hair by controlling food supply.|
+| 2:25 - 2:31 PM | Self-driving car (A&M)      | Controller and observer design to follow a reference lateral path.|
+| 2:32 - 2:38 PM | Heating and cooling control (JIB)      | SysID from thermocouple and PWM input. TBD|
+| 2:39 - 2:45 PM | Modeling of COVID-19 (A&K)    | SysID from available datasets. Observer design|
+| 2:46 - 2:52 PM | Modeling of COVID-19 (F&M)    | SysID from available datasets. Observer design|
+| 2:53 - 2:59 PM | Insulin and glucose dynamics (J&A)    | SysID from available datasets. Design a control law to regulate glucose (output) by controlling insulin (input).|
+| 3:00 - 3:06 PM | Observing COM velocity from exo inputs (B&A)    | Observer design to estimate center of mass|
+| 3:07 - 3:13 PM | Bycicle race (A)   | TBD|
