@@ -11,7 +11,7 @@ Sincerely,
 [Edgar Bolívar-Nieto](https://engineering.nd.edu/faculty/edgar-bolivar-nieto/)
 
 # ICC22 Program Overview
-Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 2022. Each group has 4 minutes to prenst plus 2 minutes for questions from the audience.
+Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 2022. Each group has 4 minutes to prensent plus 2 minutes for questions from the audience.
 
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
