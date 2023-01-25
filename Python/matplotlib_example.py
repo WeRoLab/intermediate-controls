@@ -1,4 +1,7 @@
 import numpy as np
+import matplotlib
+matplotlib.use('TkAgg')         #Optional code if you get "backend" errors
+
 import matplotlib.pyplot as plt
 
 def funHW1(x):
