@@ -26,7 +26,7 @@ Time to see your final project results! ICC23 will start at 2:00 PM (ET) in DeBa
 
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
-| 2:00 - 2:10 PM | **Keynote: Joe Norbi (Apptronik)**      | |
+| 2:00 - 2:10 PM | **Keynote: Joe Norbi, Ph.D., Apptronik**      | Control as a career and Q&A |
 | 2:15 - 2:25 PM | **Human dynamics (MK)** | Modeling human dynamics |
 | 2:30 - 2:40 PM | **Predator-prey model (EW & MS)** | Observing wolves from a rabbit population |
 | 2:30 - 2:40 PM | **Water pump control (AJ & GR)** | Controlling fluid flow at a mining plant |
@@ -37,7 +37,7 @@ Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 202
 
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
-| 2:00 - 2:10 PM | **Keynote: Dr. Andrés Valenzuela, Boston Dynamics**  | Carrer path and 5 min. of Q&A   |
+| 2:00 - 2:10 PM | **Keynote: Andrés Valenzuela, Ph.D., Boston Dynamics**  | Career path and 5 min. of Q&A   |
 | 2:11 - 2:17 PM | **Dynamics of a balancing bicycle (C&G)**      | SysID from IMUs attached to the frame and handle bar. Control law to maintain balance. |
 | 2:18 - 2:24 PM | **Population dynamics (K&N)**      | SysID from available dataset. Controller and observer design to regulate population of lynx and hair by controlling food supply.|
 | 2:25 - 2:31 PM | **Self-driving car (A&M)**      | Controller and observer design to follow a reference lateral path.|
