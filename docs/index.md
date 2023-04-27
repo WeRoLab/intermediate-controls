@@ -14,6 +14,7 @@ Sincerely,
 Time to see your final project results! ICC23 will start at 2:00 PM (ET) in DeBartolo 117 on April 27th, 2023. Each group has 4-10 minutes to present plus 3 minutes for questions from the audience.
 
 ## Day 1 - April 27th, 2023
+
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
 | 2:00 - 2:10 PM | **LED Control (NB, JM, JT, & JZ)**  | Controlling the Brightness of an LED   |
