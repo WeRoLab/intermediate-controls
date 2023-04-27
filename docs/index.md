@@ -10,8 +10,25 @@ Sincerely,
 
 [Edgar Bolívar-Nieto](https://engineering.nd.edu/faculty/edgar-bolivar-nieto/)
 
+# ICC23 Program Overview
+Time to see your final project results! ICC23 will start at 2:00 PM (ET) in DeBartolo 117 on April 27th, 2023. Each group has 4-10 minutes to present plus 2 minutes for questions from the audience.
+
+| Time (ET)      | Event | Details    |
+| :---         |    :----:   |          :--- |
+| 2:00 - 2:10 PM | **LED Control (NB, JM, JT, & JZ)**  | Controlling the Brightness of an LED   |
+| 2:11 - 2:17 PM | **Dynamics of a balancing bicycle (C&G)**      | SysID from IMUs attached to the frame and handle bar. Control law to maintain balance. |
+| 2:18 - 2:24 PM | **Population dynamics (K&N)**      | SysID from available dataset. Controller and observer design to regulate population of lynx and hair by controlling food supply.|
+| 2:25 - 2:31 PM | **Self-driving car (A&M)**      | Controller and observer design to follow a reference lateral path.|
+| 2:32 - 2:38 PM | **Heating and cooling control (JIB)**      | SysID from thermocouple and PWM input. TBD|
+| 2:39 - 2:45 PM | **Modeling of COVID-19 (A&K)**    | SysID from available datasets. Observer design|
+| 2:46 - 2:52 PM | **Modeling of COVID-19 (F&M)**    | SysID from available datasets. Observer design|
+| 2:53 - 2:59 PM | **Insulin and glucose dynamics (J&A)**    | SysID from available datasets. Design a control law to regulate glucose (output) by controlling insulin (input).|
+| 3:00 - 3:06 PM | **Observing COM velocity from exo inputs (B&A)**    | Observer design to estimate center of mass|
+| 3:07 - 3:13 PM | **Bicycle race (A)**  | TBD|
+
+
 # ICC22 Program Overview
-Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 2022. Each group has 4 minutes to prensent plus 2 minutes for questions from the audience.
+Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 2022. Each group has 4 minutes to present plus 2 minutes for questions from the audience.
 
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
