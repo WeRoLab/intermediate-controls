@@ -10,8 +10,22 @@ Sincerely,
 
 [Edgar Bolívar-Nieto](https://engineering.nd.edu/faculty/edgar-bolivar-nieto/)
 
+# ICC24 Program Overview
+Time to see your final project results! ICC24 will start at 2:00 PM (ET) in 356 Fitzpatrick Hall of Engineering on April 30th, 2024. Each group has 6-9 minutes to present plus 3 minutes for questions from the audience.
+
+## April 30th, 2024
+
+| Time (ET)      | Event | Details    |
+| :---         |    :----:   |          :--- |
+| 2:00 - 2:15 PM | **Keynote: Mark Yetman, Ph.D., The AI Institute**      | Control as a career and Q&A |
+| 2:15 - 2:27 PM | **Control of a Robotic Manipulator (AF & SO)**      | Modeling, simulating, and controlling a 4-DOF robot arm |
+| 2:27 - 2:39 PM | **Cruise Control (AV & ES)**      | Analysis of a car based on its accelerator pedal angle |
+| 2:39 - 2:51 PM | **Attitude Control of a 2U CubeSat (ED & PS)**      | Modeling, sysID, and estimation of cube satelite |
+| 2:51 - 3:03 PM | **Steering Controller (WF)**      | Steering controller for a single axle frame with independent wheel drive |
+| 3:03 - 3:15 PM | **Hovercraft Control (MF & JK)**      | Modeling, sysID, estimation, and control of hovercraft |
+
 # ICC23 Program Overview
-Time to see your final project results! ICC23 will start at 2:00 PM (ET) in DeBartolo 117 on April 27th, 2023. Each group has 4-10 minutes to present plus 3 minutes for questions from the audience.
+Time to see your final project results! ICC23 will start at 2:00 PM (ET) in 117 DeBartolo on April 27th, 2023. Each group has 4-10 minutes to present plus 3 minutes for questions from the audience.
 
 ## Day 1 - April 27th, 2023
 
@@ -33,7 +47,7 @@ Time to see your final project results! ICC23 will start at 2:00 PM (ET) in DeBa
 
 
 # ICC22 Program Overview
-Our first ICC! It will start at 2:00 PM (ET) in DeBartolo 102 on April 21st, 2022. Each group has 4 minutes to present plus 2 minutes for questions from the audience.
+Our first ICC! It will start at 2:00 PM (ET) in 102 DeBartolo on April 21st, 2022. Each group has 4 minutes to present plus 2 minutes for questions from the audience.
 
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
