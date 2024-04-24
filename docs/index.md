@@ -17,12 +17,12 @@ Time to see your final project results! ICC24 will start at 2:00 PM (ET) in 356 
 
 | Time (ET)      | Event | Details    |
 | :---         |    :----:   |          :--- |
-| 2:00 - 2:15 PM | **Keynote: Mark Yetman, Ph.D., The AI Institute**      | Control as a career and Q&A |
+| 2:00 - 2:15 PM | **Keynote: Mark Yeatman, Ph.D., The AI Institute**      | Control as a career and Q&A |
 | 2:15 - 2:27 PM | **Control of a Robotic Manipulator (AF & SO)**      | Modeling, simulating, and controlling a 4-DOF robot arm |
 | 2:27 - 2:39 PM | **Cruise Control (AV & ES)**      | Analysis of a car based on its accelerator pedal angle |
-| 2:39 - 2:51 PM | **Attitude Control of a 2U CubeSat (ED & PS)**      | Modeling, sysID, and estimation of cube satelite |
+| 2:39 - 2:51 PM | **Attitude Control of a 2U CubeSat (ED & PS)**      | Modeling, sysID, and estimation of a cube-sized satelite |
 | 2:51 - 3:03 PM | **Steering Controller (WF)**      | Steering controller for a single axle frame with independent wheel drive |
-| 3:03 - 3:15 PM | **Hovercraft Control (MF & JK)**      | Modeling, sysID, estimation, and control of hovercraft |
+| 3:03 - 3:15 PM | **Hovercraft Control (MF & JK)**      | Modeling, sysID, estimation, and control of a hovercraft |
 
 # ICC23 Program Overview
 Time to see your final project results! ICC23 will start at 2:00 PM (ET) in 117 DeBartolo on April 27th, 2023. Each group has 4-10 minutes to present plus 3 minutes for questions from the audience.
